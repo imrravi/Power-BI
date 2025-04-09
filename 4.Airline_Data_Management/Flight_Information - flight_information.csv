@@ -1,0 +1,201 @@
+FlightID,FlightNumber,Airline,Destination,Status
+1001,FL1102,Airline D,Houston,On Time
+1002,FL1435,Airline B,Chicago,On Time
+1003,FL1860,Airline A,New York,Cancelled
+1004,FL1270,Airline C,Chicago,Delayed
+1005,FL1106,Airline C,New York,Delayed
+1006,FL1071,Airline A,Phoenix,On Time
+1007,FL1700,Airline C,Los Angeles,Cancelled
+1008,FL1020,Airline C,Los Angeles,Delayed
+1009,FL1614,Airline A,Los Angeles,Cancelled
+1010,FL1121,Airline D,Chicago,Cancelled
+1011,FL1466,Airline A,Phoenix,On Time
+1012,FL1214,Airline D,New York,Delayed
+1013,FL1330,Airline C,Houston,On Time
+1014,FL1458,Airline C,New York,Delayed
+1015,FL1087,Airline C,Houston,Delayed
+1016,FL1372,Airline B,New York,Delayed
+1017,FL1099,Airline D,Phoenix,Delayed
+1018,FL1871,Airline B,Houston,Delayed
+1019,FL1663,Airline B,Chicago,Cancelled
+1020,FL1130,Airline A,New York,On Time
+1021,FL1661,Airline B,New York,Cancelled
+1022,FL1308,Airline A,Houston,Delayed
+1023,FL1769,Airline A,Chicago,On Time
+1024,FL1343,Airline B,Chicago,Delayed
+1025,FL1491,Airline D,Phoenix,On Time
+1026,FL1413,Airline D,Chicago,Cancelled
+1027,FL1805,Airline D,Chicago,On Time
+1028,FL1385,Airline D,Chicago,On Time
+1029,FL1191,Airline D,Los Angeles,On Time
+1030,FL1955,Airline B,Phoenix,On Time
+1031,FL1276,Airline B,New York,On Time
+1032,FL1160,Airline C,Houston,Delayed
+1033,FL1459,Airline D,New York,On Time
+1034,FL1313,Airline B,Phoenix,On Time
+1035,FL1021,Airline C,Houston,Cancelled
+1036,FL1252,Airline D,Phoenix,On Time
+1037,FL1747,Airline A,Chicago,Cancelled
+1038,FL1856,Airline C,Houston,Delayed
+1039,FL1560,Airline B,Chicago,On Time
+1040,FL1474,Airline A,New York,Cancelled
+1041,FL1058,Airline A,New York,Cancelled
+1042,FL1510,Airline A,Houston,Delayed
+1043,FL1681,Airline C,Houston,On Time
+1044,FL1475,Airline B,Phoenix,On Time
+1045,FL1699,Airline A,Phoenix,Cancelled
+1046,FL1975,Airline D,Chicago,On Time
+1047,FL1782,Airline A,Houston,Cancelled
+1048,FL1189,Airline A,New York,On Time
+1049,FL1957,Airline C,Phoenix,Cancelled
+1050,FL1686,Airline C,Phoenix,On Time
+1051,FL1957,Airline B,New York,Delayed
+1052,FL1562,Airline D,Phoenix,On Time
+1053,FL1875,Airline C,Chicago,On Time
+1054,FL1566,Airline A,Houston,Delayed
+1055,FL1243,Airline B,New York,On Time
+1056,FL1831,Airline A,Houston,Delayed
+1057,FL1504,Airline A,Phoenix,On Time
+1058,FL1130,Airline C,Phoenix,Cancelled
+1059,FL1484,Airline B,New York,Cancelled
+1060,FL1818,Airline D,Chicago,On Time
+1061,FL1646,Airline D,Los Angeles,On Time
+1062,FL1020,Airline C,New York,On Time
+1063,FL1840,Airline C,Los Angeles,Cancelled
+1064,FL1166,Airline B,Los Angeles,On Time
+1065,FL1273,Airline D,Chicago,Cancelled
+1066,FL1387,Airline D,Los Angeles,Delayed
+1067,FL1600,Airline D,Los Angeles,Cancelled
+1068,FL1315,Airline A,Chicago,Cancelled
+1069,FL1013,Airline D,Los Angeles,Delayed
+1070,FL1241,Airline A,Los Angeles,Cancelled
+1071,FL1776,Airline B,Los Angeles,On Time
+1072,FL1345,Airline A,New York,On Time
+1073,FL1564,Airline B,New York,Cancelled
+1074,FL1897,Airline D,New York,On Time
+1075,FL1339,Airline D,Chicago,Cancelled
+1076,FL1091,Airline B,Phoenix,On Time
+1077,FL1366,Airline C,Los Angeles,On Time
+1078,FL1955,Airline B,Los Angeles,Cancelled
+1079,FL1454,Airline C,Chicago,On Time
+1080,FL1427,Airline A,Los Angeles,Cancelled
+1081,FL1508,Airline A,New York,On Time
+1082,FL1775,Airline A,Phoenix,On Time
+1083,FL1942,Airline D,Houston,Delayed
+1084,FL1034,Airline A,Los Angeles,Delayed
+1085,FL1205,Airline C,New York,Cancelled
+1086,FL1080,Airline A,Houston,Delayed
+1087,FL1931,Airline B,Phoenix,Cancelled
+1088,FL1561,Airline B,Houston,Delayed
+1089,FL1871,Airline D,New York,On Time
+1090,FL1387,Airline B,Houston,Cancelled
+1091,FL1001,Airline C,Chicago,Cancelled
+1092,FL1389,Airline A,Houston,On Time
+1093,FL1565,Airline D,Los Angeles,Cancelled
+1094,FL1105,Airline A,Los Angeles,Cancelled
+1095,FL1771,Airline A,Chicago,Delayed
+1096,FL1821,Airline C,New York,Cancelled
+1097,FL1476,Airline B,Los Angeles,On Time
+1098,FL1702,Airline B,Phoenix,Delayed
+1099,FL1401,Airline A,Los Angeles,Delayed
+1100,FL1729,Airline D,Los Angeles,On Time
+1101,FL1555,Airline B,New York,On Time
+1102,FL1161,Airline D,Houston,Delayed
+1103,FL1201,Airline B,Los Angeles,Cancelled
+1104,FL1957,Airline D,Chicago,Delayed
+1105,FL1995,Airline C,Houston,On Time
+1106,FL1269,Airline D,Phoenix,Delayed
+1107,FL1862,Airline C,New York,On Time
+1108,FL1815,Airline C,Phoenix,Delayed
+1109,FL1270,Airline D,Houston,Cancelled
+1110,FL1455,Airline C,Houston,Delayed
+1111,FL1461,Airline A,Houston,Delayed
+1112,FL1726,Airline C,Phoenix,On Time
+1113,FL1251,Airline B,Houston,On Time
+1114,FL1701,Airline D,Phoenix,On Time
+1115,FL1295,Airline A,Houston,Delayed
+1116,FL1724,Airline D,Chicago,Cancelled
+1117,FL1719,Airline B,Houston,On Time
+1118,FL1748,Airline B,Phoenix,On Time
+1119,FL1337,Airline B,Los Angeles,Delayed
+1120,FL1878,Airline C,Houston,On Time
+1121,FL1052,Airline C,Los Angeles,Cancelled
+1122,FL1791,Airline D,Chicago,Cancelled
+1123,FL1921,Airline D,New York,On Time
+1124,FL1216,Airline A,Chicago,On Time
+1125,FL1763,Airline A,Houston,Delayed
+1126,FL1187,Airline D,Los Angeles,Cancelled
+1127,FL1379,Airline C,Los Angeles,Cancelled
+1128,FL1492,Airline B,Phoenix,On Time
+1129,FL1040,Airline D,Los Angeles,Delayed
+1130,FL1156,Airline A,Phoenix,Cancelled
+1131,FL1014,Airline C,New York,Cancelled
+1132,FL1812,Airline D,Houston,Delayed
+1133,FL1064,Airline D,Phoenix,Delayed
+1134,FL1856,Airline C,New York,Cancelled
+1135,FL1838,Airline D,Los Angeles,Cancelled
+1136,FL1520,Airline C,Los Angeles,Delayed
+1137,FL1343,Airline B,New York,Cancelled
+1138,FL1128,Airline C,Los Angeles,On Time
+1139,FL1647,Airline C,New York,On Time
+1140,FL1471,Airline C,Phoenix,Delayed
+1141,FL1062,Airline D,Phoenix,Delayed
+1142,FL1138,Airline D,New York,Delayed
+1143,FL1498,Airline C,Phoenix,On Time
+1144,FL1592,Airline D,Phoenix,Cancelled
+1145,FL1391,Airline A,Phoenix,On Time
+1146,FL1674,Airline A,Chicago,Cancelled
+1147,FL1418,Airline D,Houston,On Time
+1148,FL1288,Airline D,Los Angeles,Cancelled
+1149,FL1378,Airline C,Chicago,On Time
+1150,FL1772,Airline B,Phoenix,Delayed
+1151,FL1489,Airline D,New York,On Time
+1152,FL1230,Airline A,Phoenix,Cancelled
+1153,FL1040,Airline C,Houston,On Time
+1154,FL1027,Airline D,Phoenix,On Time
+1155,FL1134,Airline A,New York,On Time
+1156,FL1200,Airline A,Houston,Delayed
+1157,FL1839,Airline B,Phoenix,On Time
+1158,FL1779,Airline C,Houston,Delayed
+1159,FL1929,Airline C,Los Angeles,Delayed
+1160,FL1032,Airline B,Los Angeles,On Time
+1161,FL1047,Airline B,Phoenix,On Time
+1162,FL1502,Airline C,Houston,On Time
+1163,FL1406,Airline C,New York,Cancelled
+1164,FL1573,Airline D,Phoenix,On Time
+1165,FL1727,Airline D,Los Angeles,Delayed
+1166,FL1804,Airline B,Los Angeles,On Time
+1167,FL1098,Airline D,Phoenix,Cancelled
+1168,FL1683,Airline A,Houston,On Time
+1169,FL1871,Airline D,Los Angeles,Cancelled
+1170,FL1725,Airline D,Houston,Cancelled
+1171,FL1986,Airline A,Los Angeles,On Time
+1172,FL1546,Airline B,Los Angeles,Delayed
+1173,FL1960,Airline A,Chicago,Cancelled
+1174,FL1738,Airline D,Los Angeles,On Time
+1175,FL1612,Airline B,New York,On Time
+1176,FL1942,Airline D,Phoenix,Delayed
+1177,FL1461,Airline A,Phoenix,Cancelled
+1178,FL1642,Airline A,Houston,Cancelled
+1179,FL1768,Airline D,Los Angeles,On Time
+1180,FL1004,Airline C,New York,On Time
+1181,FL1217,Airline C,Houston,Delayed
+1182,FL1502,Airline A,Chicago,Delayed
+1183,FL1766,Airline A,Houston,Cancelled
+1184,FL1397,Airline C,Houston,Cancelled
+1185,FL1870,Airline C,Los Angeles,On Time
+1186,FL1794,Airline D,Chicago,Cancelled
+1187,FL1392,Airline D,Houston,Delayed
+1188,FL1206,Airline C,New York,Delayed
+1189,FL1014,Airline D,New York,On Time
+1190,FL1857,Airline D,Phoenix,Delayed
+1191,FL1553,Airline B,Chicago,Delayed
+1192,FL1891,Airline D,Chicago,Delayed
+1193,FL1460,Airline A,Phoenix,Delayed
+1194,FL1690,Airline D,Houston,On Time
+1195,FL1574,Airline D,Chicago,On Time
+1196,FL1863,Airline C,New York,Cancelled
+1197,FL1742,Airline A,New York,Delayed
+1198,FL1240,Airline D,Los Angeles,Cancelled
+1199,FL1563,Airline D,Chicago,On Time
+1200,FL1095,Airline B,Houston,On Time
