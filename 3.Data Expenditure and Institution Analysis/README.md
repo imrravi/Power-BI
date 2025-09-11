@@ -147,7 +147,8 @@ segment.
 
 #### Power BI Service Dashboard
 
-<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/e5abc965-9063-4645-94ad-97e5e6e6bd37" />
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/dfca237e-54b7-4877-83c7-5ec7540e960c" />
+
 
 - For the complete measure, with data preprocessing and all previous steps, please download the file I have [provided](https://github.com/imrravi/Power-BI/blob/main/3.Data%20Expenditure%20and%20Institution%20Analysis/Data_Expenditure.pbix).
 
